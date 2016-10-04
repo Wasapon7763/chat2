@@ -1,0 +1,9 @@
+body {
+  width: 100%;
+}
+
+.chatView {
+  width: 50%;
+  height: 0;
+  position: relative;
+}
